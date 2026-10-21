@@ -1,0 +1,6 @@
+### Description ###
+
+Add selective Gothic I/II/III music to Battle Brothers.
+
+0.1.0
+	- released on github
